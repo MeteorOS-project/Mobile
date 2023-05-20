@@ -1,0 +1,6 @@
+TODO:
+
+1. Create base folders
+2. Build up bootloader
+3. Build up libc and other libraries
+4. Set up android kernel
